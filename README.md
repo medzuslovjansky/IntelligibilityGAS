@@ -1,19 +1,6 @@
-<p align="center">
-  <a href="" rel="noopener">
- <img width="400" src="https://i.imgur.com/83Y7bWN.png" alt="React & Google Apps Script logos"></a>
-</p>
-<p align="center"><i>
-  Update 2022: Now with support for React v17 and React Fast Refresh
-</i></p>
+❗ **Projekt je arhivovany iz povoda sjedinenja s: https://github.com/medzuslovjansky/razumlivost (větva `googleapis`).** ❗
 
-<div align="center">
-
-[![Status](https://img.shields.io/badge/status-active-success.svg?color=46963a&style=flat-square)]()
-[![GitHub Issues](https://img.shields.io/github/issues/enuchi/React-Google-Apps-Script.svg?color=lightblue&style=flat-square)](https://github.com/enuchi/React-Google-Apps-Script/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/enuchi/React-Google-Apps-Script.svg?color=blue&style=flat-square)](https://github.com/enuchi/React-Google-Apps-Script/pulls)
-[![License](https://img.shields.io/github/license/enuchi/React-Google-Apps-Script?color=pink&style=flat-square)](/LICENSE)
-
-</div>
+---
 
 <p align="center"> 🚀 This is your boilerplate project for developing React apps inside Google Sheets, Docs, Forms and Slides projects. It's perfect for personal projects and for publishing complex add-ons in the G Suite Marketplace.
 </p>
